@@ -10,6 +10,7 @@ namespace mod25_tarea
     {
         static void Main(string[] args)
         {
+            ShowMessage();
         }
         
         static void ShowMessage()
